@@ -1,0 +1,8 @@
+"Head First Python", 2nd Edition, Paul Barry, O'Reilly Media, November 2016, 978-1-491-91953-8
+
+DBcm 1.7.1
+https://pypi.python.org/pypi/DBcm/1.7.1
+The Head First Python 2e Database Context Manager
+Paul Barry
+
+pythonanywhere.com
